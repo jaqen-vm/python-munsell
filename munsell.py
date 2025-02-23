@@ -19,7 +19,7 @@
 import re
 import math
 
-from table import table
+from table import tabela
 
 
 def _xyy_to_rgb_linear(x, y, y2):
