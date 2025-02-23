@@ -31,7 +31,7 @@ x Chrominance
 y Chrominance
 Y Luminance
 '''
-table = {
+tabela = {
  '10B 0.2 2': [0.133, 0.149, 0.237],
  '10B 0.2 4': [0.088, 0.102, 0.237],
  '10B 0.2 6': [0.063, 0.074, 0.237],
